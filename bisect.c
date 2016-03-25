@@ -6,7 +6,7 @@ int main(int argc, char *argv[])
 
 	printf("Hello world ...\n");
 
-	printf("We add a bunch ...\n");
+	printf("We change some ...\n");
 
 	printf("print the int, yo! %d\n", *foo);
 

@@ -6,5 +6,7 @@ int main(int argc, char *argv[])
 
 	printf("We add a bunch ...\n");
 
+	printf("... of more prints ...\n");
+
 	return 0;
 }

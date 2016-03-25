@@ -10,5 +10,7 @@ int main(int argc, char *argv[])
 
 	printf("... of more prints ...\n");
 
+	printf("print the int, yo! %d\n", *foo);
+
 	return 0;
 }

@@ -1,0 +1,10 @@
+Example for bisect talk
+
+Use 'make' to build.
+
+    $ make
+
+The current checked in state is supposed to segfault on execution.
+
+During the talk we're gonna walk through finding the issue together
+using 'git bisect'.

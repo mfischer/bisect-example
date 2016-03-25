@@ -10,9 +10,5 @@ int main(int argc, char *argv[])
 
 	printf("print the int, yo! %d\n", *foo);
 
-	for (size_t i = 0; i < 10; i++) {
-		printf("%lu\n", i);
-	}
-
 	return 0;
 }

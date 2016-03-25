@@ -2,6 +2,8 @@
 
 int main(int argc, char *argv[])
 {
+	int *foo = NULL;
+
 	printf("Hello world ...\n");
 
 	printf("We add a bunch ...\n");

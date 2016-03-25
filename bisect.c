@@ -14,9 +14,5 @@ int main(int argc, char *argv[])
 		printf("%lu\n", i);
 	}
 
-	for (size_t i = 0; i < 10; i++) {
-		printf("%lu\n", i);
-	}
-
 	return 0;
 }
